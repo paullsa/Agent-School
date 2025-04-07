@@ -2,4 +2,5 @@ chromadb
 langchain
 langchain_community
 langchain_ollama
+pypdf
 wikipedia
