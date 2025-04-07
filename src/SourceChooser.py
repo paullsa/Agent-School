@@ -1,3 +1,5 @@
+# https://python.langchain.com/docs/integrations/vectorstores/
+
 import langchain
 from langchain.chains import ConversationChain
 from langchain.agents import initialize_agent, Tool, AgentType
