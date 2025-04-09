@@ -1,3 +1,8 @@
+# Amended from Packt The Complete LangChain LLms Course
+# This code needs to be run as a .py file for streamlit to work
+# Import necessary libraries
+
+
 from langchain_ollama import OllamaLLM
 from langchain.prompts import PromptTemplate
 from langchain.schema.runnable import RunnableMap
